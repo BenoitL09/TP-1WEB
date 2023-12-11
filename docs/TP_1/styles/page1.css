@@ -1,0 +1,58 @@
+h1.Titre{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(32, 69, 117);
+    color :white;
+}
+
+h1.date{
+    text-indent: 40%;
+    text-align: left;
+    float: left;
+    background-color:green;   
+}
+
+p.mid{
+    float:left;
+    background-color: pink;
+}
+
+p.right{
+    float:right;
+    background-color: red;
+}
+
+h1.soutitre{
+    text-indent: 40%;  
+}
+
+article.t{
+    float: left;
+    
+}
+
+
+time{
+    font-weight: bold;   
+}
+
+p{
+    color:rgb(5, 66, 122);
+}
+
+
+p1{
+    color:rgb(130, 177, 209);
+}
+
+footer{
+    background-color:rgb(32, 69, 117) ;
+    text-align: end;
+}
+
+a{
+    color:rgb(130, 177, 209);
+}
